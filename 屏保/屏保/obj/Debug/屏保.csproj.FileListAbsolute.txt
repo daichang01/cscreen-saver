@@ -1,0 +1,9 @@
+D:\Develop\Vsdevelop\c#\屏保\屏保\bin\Debug\屏保.exe.config
+D:\Develop\Vsdevelop\c#\屏保\屏保\bin\Debug\屏保.exe
+D:\Develop\Vsdevelop\c#\屏保\屏保\bin\Debug\屏保.pdb
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.csprojResolveAssemblyReference.cache
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.Form1.resources
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.Properties.Resources.resources
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.csproj.GenerateResource.Cache
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.exe
+D:\Develop\Vsdevelop\c#\屏保\屏保\obj\Debug\屏保.pdb
